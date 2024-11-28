@@ -1,5 +1,7 @@
 # Intro-to-Robotics
-**Robotics Project - Remote-Controlled Vehicl**e
+
+## EGN 4060C - Fall 2023
+**Robotics Project - Remote-Controlled Vehicle**
 
 **Overview**
 
@@ -15,6 +17,12 @@ This project was developed as part of the University of Central Florida's Introd
 
 **Group Members**
 
-1. Antonio Duchesneau
-2. Alexander Green
-3. Rodrigo Guerra
+**Alexander Green** &nbsp;&nbsp;&nbsp; Bachelor of Science in Computer Engineering (BSCpE)<br>
+Dept. of Electrical and Computer Engineering, University of Central Florida<br>
+View other work: [GitHub](https://github.com/alexneilgreen)
+
+**Antonio Duchesneau** &nbsp; Bachelor of Science in Electrical Engineering (BSEE)<br>
+Dept. of Electrical and Computer Engineering, University of Central Florida<br>
+
+**Rodrigo Guerra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor of Science in Computer Engineering (BSCpE)<br>
+Dept. of Electrical and Computer Engineering, University of Central Florida<br>
