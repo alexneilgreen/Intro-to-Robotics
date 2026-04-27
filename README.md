@@ -142,7 +142,7 @@ python sonarMotorCombo.py
 | ------------------ | ---------------------------------- | ------------------------------------------------------------------ |
 | Alexander Green    | Development, Testing, Presentation | [@alexneilgreen](https://github.com/alexneilgreen)                 |
 | Antonio Duchesneau | Development, Testing, Presentation | [@GitHubAccountExample1](https://github.com/GitHubAccountExample1) |
-| Rodrigo Guerra     | Development, Testing, Presentation | [@GitHubAccountExample2](https://github.com/GitHubAccountExample2) |
+| Rodrigo Guerra     | Development, Testing, Presentation | [@rodygu](https://github.com/rodygu)                               |
 
 ---
 
