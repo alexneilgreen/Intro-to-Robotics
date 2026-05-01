@@ -108,8 +108,8 @@ project-root/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/alexneilgreen/Intro-to-Robotics.git
-cd Intro-to-Robotics
+git clone https://github.com/alexneilgreen/UCF-IntroToRobotics-RemoteControlledVehicle.git
+cd UCF-IntroToRobotics-RemoteControlledVehicle
 
 # 2. Install dependencies
 pip install -r requirements.txt
